@@ -31,7 +31,7 @@ def approval():
             print('Tool Owner:: ARJUN-')
             print(eno +" "+ "Your Token is : " + id)
             input('IF U WANT TO BUY THEN PRESS ENTER ')
-            tks = ('Hello%20Sketch%20!%20Please%20Approve%20My%20Token%20My%20token%20Is%20:%20' + id +'%20My%20Name%20is%20' + eno)
+            tks = ('Hello%20ArjuN%20!%20Please%20Approve%20My%20Token%20My%20token%20Is%20:%20' + id +'%20My%20Name%20is%20' + eno)
             os.system('am start https://wa.me/+917568053340?text=' + tks)
             time.sleep(1)
 
