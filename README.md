@@ -4,8 +4,8 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 <;Jay shri ram__💞;Coded+By+ARJUN-SINGH" alt="Typing SVG" /></a>
   
-THIS REPOSITORY MADE BY MURSHAD
-<h1 align="center">Hi 👋, I'M MURSHAD </h1>
+THIS REPOSITORY MADE BY ARJUN
+<h1 align="center">Hi 👋, I'M ARJUN </h1>
 <h1 aling="center">जय श्री राम___❤️🙏</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
