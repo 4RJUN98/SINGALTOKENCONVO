@@ -29,7 +29,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/G8pteQsHfBl1y8WqTM7e1B"><img a
 <p align="left">
 <a href="https://linkedin.com/in/abhi yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arjun singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/broken_x._90k?igsh=NTc4MTIwNjQ2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://youtube.com/@r4jput4n4?si=tffAu0CK4JkdsWmC learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
